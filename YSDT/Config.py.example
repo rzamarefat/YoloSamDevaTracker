@@ -1,0 +1,19 @@
+MODE = 'development' #production-development
+DEVICE = 'cuda'
+VIDEO_SIZE = 640
+YOLO_MODEL = "path/to/yolov8m.pt"
+
+SOURCE_VIDEO_PATH = 
+OUTPUT_VIDEO_PATH = 
+
+
+class DEVA:
+    ENABLE_LONG_TERM_COUNT_USAGE = True
+    MAX_NUM_OBJECTS = 50
+    AMP = True
+    CHUNK_SIZE = 4
+    DETECTION_EVERY = 5
+    MAX_MISSED_DETECTION_COUNT = 10
+    SAM_VARIANT = 'original'
+    PLURALIZE = True
+    ENABLE_LONG_TERM = True
