@@ -4,6 +4,7 @@
 
 ## Demo
 
+[out2.webm](https://github.com/rzamarefat/YoloSamDevaTracker/assets/20444289/6ec3d3e5-6aff-4fa6-a4a9-5246eba59337)
 
 
 
